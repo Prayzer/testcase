@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <records>
+        <record>
+            <jobTitle>Sr. Java Developer</jobTitle>
+            <name>Pavel</name>
+            <year>1995</year>
+        </record>
+        <record>
+            <jobTitle>HR Manager</jobTitle>
+            <name>Jelena</name>
+            <surname>Poleschuk</surname>
+        </record>
+    </records>
+</root>
